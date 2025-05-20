@@ -290,18 +290,18 @@
 
 ### 25. Pattern: Union Find
 
-1. Introduction to Union Find Pattern
-2. Redundant Connection (medium) [Leetcode - I](https://leetcode.com/problems/redundant-connection/) [Leetcode - II (Hard)](https://leetcode.com/problems/redundant-connection-ii/)  
-3. Number of Provinces (medium) [Leetcode](https://leetcode.com/problems/number-of-provinces/)
-4. Is Graph Bipartite? (medium) [Leetcode](https://leetcode.com/problems/is-graph-bipartite/)
+(done)1. Introduction to Union Find Pattern
+(done)2. Redundant Connection (medium) [Leetcode - I](https://leetcode.com/problems/redundant-connection/) [Leetcode - II (Hard)](https://leetcode.com/problems/redundant-connection-ii/)  
+(done)3. Number of Provinces (medium) [Leetcode](https://leetcode.com/problems/number-of-provinces/)
+(done)4. Is Graph Bipartite? (medium) [Leetcode](https://leetcode.com/problems/is-graph-bipartite/)
 5. Path With Minimum Effort (medium) [Leetcode](https://leetcode.com/problems/path-with-minimum-effort/)
 
 
 ### 26. Ordered Set
 
 1. Introduction to Ordered Set Pattern
-2. Merge Similar Items (easy) [Leetcode](https://leetcode.com/problems/merge-similar-items/)  
-3. 132 Pattern (medium) [Leetcode](https://leetcode.com/problems/132-pattern/)  
+(done)2. Merge Similar Items (easy) [Leetcode](https://leetcode.com/problems/merge-similar-items/)  
+(done)3. 132 Pattern (medium) [Leetcode](https://leetcode.com/problems/132-pattern/)  
 4. My Calendar I (medium) [Leetcode](https://leetcode.com/problems/my-calendar-i/) [Leetcode - II](https://leetcode.com/problems/my-calendar-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/my-calendar-iii/)  
 5. Longest Continuous Subarray (medium)
 
