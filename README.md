@@ -302,7 +302,7 @@
 1. Introduction to Ordered Set Pattern :heavy_check_mark:
 2. Merge Similar Items (easy) [Leetcode](https://leetcode.com/problems/merge-similar-items/)  :heavy_check_mark:
 3. 132 Pattern (medium) [Leetcode](https://leetcode.com/problems/132-pattern/)  :heavy_check_mark:
-4. My Calendar I (medium) [Leetcode](https://leetcode.com/problems/my-calendar-i/) :heavy_check_mark: [Leetcode - II](https://leetcode.com/problems/my-calendar-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/my-calendar-iii/)  
+4. My Calendar I (medium) [Leetcode](https://leetcode.com/problems/my-calendar-i/) :heavy_check_mark: [Leetcode - II](https://leetcode.com/problems/my-calendar-ii/) :heavy_check_mark: [Leetcode - III (Hard)](https://leetcode.com/problems/my-calendar-iii/) :heavy_check_mark:
 5. Longest Continuous Subarray (medium)
 
 
