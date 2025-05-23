@@ -278,12 +278,12 @@
 
 ### 24. Pattern: Topological Sort (Graph)
 
-1. Introduction
-2. Topological Sort (medium) [Youtube](https://www.youtube.com/watch?v=cIBFEhD77b4)
-3. Tasks Scheduling (medium) [Leetcode-Similar](https://leetcode.com/problems/course-schedule/)
-4. Tasks Scheduling Order (medium) [Leetcode-Similar](https://leetcode.com/problems/course-schedule/)
-5. All Tasks Scheduling Orders (hard) [Leetcode-Similar](https://leetcode.com/problems/course-schedule-ii/)
-6. Alien Dictionary (hard) [Leetcode](https://leetcode.com/problems/alien-dictionary/)
+1. Introduction :heavy_check_mark:
+2. Topological Sort (medium) [Youtube](https://www.youtube.com/watch?v=cIBFEhD77b4) :heavy_check_mark:
+3. Tasks Scheduling (medium) [Leetcode-Similar](https://leetcode.com/problems/course-schedule/) :heavy_check_mark:
+4. Tasks Scheduling Order (medium) [Leetcode-Similar](https://leetcode.com/problems/course-schedule/) :heavy_check_mark:
+5. All Tasks Scheduling Orders (hard) [Leetcode-Similar](https://leetcode.com/problems/course-schedule-ii/) :heavy_check_mark:
+6. Alien Dictionary (hard) [Leetcode](https://leetcode.com/problems/alien-dictionary/) :heavy_check_mark:
 7. Problem Challenge 1: Reconstructing a Sequence (hard) [Leetcode](https://leetcode.com/problems/sequence-reconstruction/)
 8. Problem Challenge 2: Minimum Height Trees (hard) [Leetcode](https://leetcode.com/problems/minimum-height-trees/)
 
