@@ -268,12 +268,12 @@
 
 ### 23. Pattern: Trie
 
-1. Introduction to Trie
-2. Implement Trie (Prefix Tree) (medium) [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/)  
-3. Index Pairs of a String (easy) [Leetcode+](https://leetcode.com/problems/index-pairs-of-a-string/)
-4. Design Add and Search Words Data Structure (medium) [Leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
-5. Extra Characters in a String (medium) [Leetcode](https://leetcode.com/problems/extra-characters-in-a-string/)
-6. Search Suggestions System (medium) [Leetcode](https://leetcode.com/problems/search-suggestions-system/)
+1. Introduction to Trie :heavy_check_mark:
+2. Implement Trie (Prefix Tree) (medium) [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) :heavy_check_mark:
+3. Index Pairs of a String (easy) [Leetcode+](https://leetcode.com/problems/index-pairs-of-a-string/) :heavy_check_mark:
+4. Design Add and Search Words Data Structure (medium) [Leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/) :heavy_check_mark:
+5. Extra Characters in a String (medium) [Leetcode](https://leetcode.com/problems/extra-characters-in-a-string/) :heavy_check_mark:
+6. Search Suggestions System (medium) [Leetcode](https://leetcode.com/problems/search-suggestions-system/) :heavy_check_mark:
 
 
 ### 24. Pattern: Topological Sort (Graph)
