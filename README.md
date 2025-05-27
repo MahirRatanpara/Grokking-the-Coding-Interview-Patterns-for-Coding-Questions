@@ -259,7 +259,7 @@
 ### 22. Pattern: Backtracking
 
 1. Introduction to Backtracking Pattern :heavy_check_mark:
-2. Combination Sum (medium) [Leetcode - I](https://leetcode.com/problems/combination-sum/) :heavy_check_mark: [Leetcode - II](https://leetcode.com/problems/combination-sum-ii/) [Leetcode - III](https://leetcode.com/problems/combination-sum-iii/) [Leetcode - IV](https://leetcode.com/problems/combination-sum-iv/)  
+2. Combination Sum (medium) [Leetcode - I](https://leetcode.com/problems/combination-sum/) :heavy_check_mark: [Leetcode - II](https://leetcode.com/problems/combination-sum-ii/) :heavy_check_mark: [Leetcode - III](https://leetcode.com/problems/combination-sum-iii/):heavy_check_mark:[Leetcode - IV](https://leetcode.com/problems/combination-sum-iv/)  
 3. Word Search (medium) [Leetcode - I](https://leetcode.com/problems/word-search/) :heavy_check_mark: [Leetcode - II (Hard)](https://leetcode.com/problems/word-search-ii/) :heavy_check_mark:
 4. Sudoku Solver (hard) [Leetcode](https://leetcode.com/problems/sudoku-solver/)
 5. Factor Combinations (medium) [Leetcode+](https://leetcode.com/problems/factor-combinations/)
