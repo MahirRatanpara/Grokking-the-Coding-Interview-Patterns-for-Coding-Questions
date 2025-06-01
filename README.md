@@ -97,12 +97,12 @@
 
 ### 9. Pattern: Hash Maps
 
-1. Introduction (Hashing, Hash Tables, Issues)
-2. First Non-repeating Character (easy) [Leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/)  
-3. Largest Unique Number (easy) [Leetcode+](https://leetcode.com/problems/largest-unique-number/)  
-4. Maximum Number of Balloons (easy) [Leetcode](https://leetcode.com/problems/maximum-number-of-balloons/)  
-5. Longest Palindrome(easy) [Leetcode](https://leetcode.com/problems/longest-palindrome/)  
-6. Ransom Note (easy) [Leetcode](https://leetcode.com/problems/ransom-note/)  
+1. Introduction (Hashing, Hash Tables, Issues) :heavy_check_mark:
+2. First Non-repeating Character (easy) [Leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/) :heavy_check_mark:
+3. Largest Unique Number (easy) [Leetcode+](https://leetcode.com/problems/largest-unique-number/)  :heavy_check_mark:
+4. Maximum Number of Balloons (easy) [Leetcode](https://leetcode.com/problems/maximum-number-of-balloons/)  :heavy_check_mark:
+5. Longest Palindrome(easy) [Leetcode](https://leetcode.com/problems/longest-palindrome/)  :heavy_check_mark:
+6. Ransom Note (easy) [Leetcode](https://leetcode.com/problems/ransom-note/)  :heavy_check_mark:
 
 ### 10. Pattern: Tree Breadth First Search
 
