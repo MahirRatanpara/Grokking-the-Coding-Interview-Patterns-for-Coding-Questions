@@ -251,7 +251,7 @@
 2. 0/1 Knapsack (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) :heavy_check_mark:
 3. Equal Subset Sum Partition (medium) [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/) :heavy_check_mark:
 4. Subset Sum (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) :heavy_check_mark:
-5. Minimum Subset Sum Difference (hard) [Geeksforgeeks](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
+5. Minimum Subset Sum Difference (hard) [Geeksforgeeks](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/) :heavy_check_mark:
 6. Problem Challenge 1: Count of Subset Sum (hard)
 7. Problem Challenge 2: Target Sum (hard)
 
