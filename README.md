@@ -236,10 +236,10 @@
 
 ### 20. Pattern: Greedy Algorithms
 
-1. Introduction to Greedy Algorithm
-2. Valid Palindrome II (easy) [Leetcode](https://leetcode.com/problems/valid-palindrome-ii/)  
-3. Maximum Length of Pair Chain (medium) [Leetcode](https://leetcode.com/problems/maximum-length-of-pair-chain/)
-4. Minimum Add to Make Parentheses Valid (medium) [Leetcode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+1. Introduction to Greedy Algorithm :heavy_check_mark:
+2. Valid Palindrome II (easy) [Leetcode](https://leetcode.com/problems/valid-palindrome-ii/)  :heavy_check_mark:
+3. Maximum Length of Pair Chain (medium) [Leetcode](https://leetcode.com/problems/maximum-length-of-pair-chain/) :heavy_check_mark:
+4. Minimum Add to Make Parentheses Valid (medium) [Leetcode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) :heavy_check_mark:
 5. Remove Duplicate Letters (medium) [Leetcode](https://leetcode.com/problems/remove-duplicate-letters/)
 6. Largest Palindromic Number (Medium) [Leetcode](https://leetcode.com/problems/largest-palindromic-number/)  
 7. Removing Minimum and Maximum From Array (medium) [Leetcode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)  
