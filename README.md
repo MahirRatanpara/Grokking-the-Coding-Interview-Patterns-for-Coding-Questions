@@ -6,13 +6,13 @@
 
 1. Introduction :heavy_check_mark:
 2. Pair with Target Sum (easy) [LeetCode](https://leetcode.com/problems/two-sum/) :heavy_check_mark:
-3. Remove Duplicates (easy) :heavy_check_mark: [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) [LeetCode](https://leetcode.com/problems/duplicate-zeros/)
+3. Remove Duplicates (easy) :heavy_check_mark: [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) [LeetCode](https://leetcode.com/problems/duplicate-zeros/) :heavy_check_mark:
 4. Squaring a Sorted Array (easy) :heavy_check_mark: [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
-5. Triplet Sum to Zero (medium) [LeetCode](https://leetcode.com/problems/3sum/)
-6. Triplet Sum Close to Target (medium) [LeetCode](https://leetcode.com/problems/3sum-closest/)
-7. Triplets with Smaller Sum (medium) [LintCode](https://www.lintcode.com/problem/3sum-smaller/description)
-8. Subarrays with Product Less than a Target (medium) [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/)
-9. Dutch National Flag Problem (medium) [CoderByte](https://coderbyte.com/algorithm/dutch-national-flag-sorting-problem)
+5. Triplet Sum to Zero (medium) [LeetCode](https://leetcode.com/problems/3sum/) :heavy_check_mark:
+6. Triplet Sum Close to Target (medium) [LeetCode](https://leetcode.com/problems/3sum-closest/) :heavy_check_mark:
+7. Triplets with Smaller Sum (medium) [LintCode](https://www.lintcode.com/problem/3sum-smaller/description) :heavy_check_mark:
+8. Subarrays with Product Less than a Target (medium) [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) :heavy_check_mark:
+9. Dutch National Flag Problem (medium) [CoderByte](https://coderbyte.com/algorithm/dutch-national-flag-sorting-problem) :heavy_check_mark:
 10. Problem Challenge 1: Quadruple Sum to Target (medium) [Leetcode](https://leetcode.com/problems/4sum/)
 11. Problem Challenge 2: Comparing Strings containing Backspaces (medium) [Leetcode](https://leetcode.com/problems/backspace-string-compare/)
 12. Problem Challenge 3: Minimum Window Sort (medium) [Leetcode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [Ideserve](https://www.ideserve.co.in/learn/minimum-length-subarray-sorting-which-results-in-sorted-array)
