@@ -19,11 +19,11 @@
 
 ### 2. Pattern: Fast & Slow pointers
 
-1. Introduction [emre.me](https://emre.me/coding-patterns/fast-slow-pointers/)
-2. LinkedList Cycle (easy) [Leetcode](https://leetcode.com/problems/linked-list-cycle/)
-3. Start of LinkedList Cycle (medium) [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/)
-4. Happy Number (medium) [Leetcode](https://leetcode.com/problems/happy-number/)
-5. Middle of the LinkedList (easy) [Leetcode](https://leetcode.com/problems/middle-of-the-linked-list/)
+1. Introduction [emre.me](https://emre.me/coding-patterns/fast-slow-pointers/) :heavy_check_mark:
+2. LinkedList Cycle (easy) [Leetcode](https://leetcode.com/problems/linked-list-cycle/) :heavy_check_mark:
+3. Start of LinkedList Cycle (medium) [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/) :heavy_check_mark:
+4. Happy Number (medium) [Leetcode](https://leetcode.com/problems/happy-number/) :heavy_check_mark:
+5. Middle of the LinkedList (easy) [Leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) :heavy_check_mark:
 6. Problem Challenge 1: Palindrome LinkedList (medium) [Leetcode](https://leetcode.com/problems/palindrome-linked-list/)
 7. Problem Challenge 2: Rearrange a LinkedList (medium) [Leetcode](https://leetcode.com/problems/reorder-list/)
 8. Problem Challenge 3: Cycle in a Circular Array (hard) [Leetcode](https://leetcode.com/problems/circular-array-loop/)
