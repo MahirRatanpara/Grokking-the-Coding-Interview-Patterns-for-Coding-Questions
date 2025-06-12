@@ -30,12 +30,12 @@
 
 ### 3. Pattern: Sliding Window
 
-1. Introduction
-2. Maximum Sum Subarray of Size K (easy)
-3. Smallest Subarray with a given sum (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ)
-4. Longest Substring with K Distinct Characters (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80)
-5. Fruits into Baskets (medium) [LeetCode](https://leetcode.com/problems/fruit-into-baskets/)
-6. No-repeat Substring (hard) [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+1. Introduction :heavy_check_mark:
+2. Maximum Sum Subarray of Size K (easy) :heavy_check_mark:
+3. Smallest Subarray with a given sum (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ) :heavy_check_mark:
+4. Longest Substring with K Distinct Characters (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80) :heavy_check_mark:
+5. Fruits into Baskets (medium) [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) :heavy_check_mark:
+6. No-repeat Substring (hard) [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) :heavy_check_mark:
 7. Longest Substring with Same Letters after Replacement (hard) [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/)
 8. Longest Subarray with Ones after Replacement (hard) [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/)
 9. Problem Challenge 1: Permutation in a String (hard) [Leetcode](https://leetcode.com/problems/permutation-in-string/)
